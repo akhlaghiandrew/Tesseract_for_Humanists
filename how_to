@@ -1,0 +1,7 @@
+#first use ImageMagick
+$ convert -density 300 X_image.ext -depth 8 -strip -background white -alpha off out1.tiff
+
+#then Tesseract
+$ tesseract out1.tiff ocr1 -l rus
+
+then upload to googledocs and translate 
