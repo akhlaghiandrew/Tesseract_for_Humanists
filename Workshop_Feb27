@@ -14,5 +14,5 @@ do
 done
 
 #need to install ImageMagick, Tesseract, and Translate Shell (formerly Google Translate CLI) 
-#this will only translate one page at a time, which is necessary for the translation to work properly
+#the 1m break between documents is neccessary 
 #Google translate and other online translators cap your access and will block your IP 
